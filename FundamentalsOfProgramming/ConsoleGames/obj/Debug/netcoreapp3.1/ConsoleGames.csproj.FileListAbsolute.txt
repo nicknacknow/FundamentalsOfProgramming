@@ -11,3 +11,17 @@ M:\Sources\FundamentalsOfProgramming\FundamentalsOfProgramming\ConsoleGames\obj\
 M:\Sources\FundamentalsOfProgramming\FundamentalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.dll
 M:\Sources\FundamentalsOfProgramming\FundamentalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.pdb
 M:\Sources\FundamentalsOfProgramming\FundamentalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.genruntimeconfig.cache
+C:\Users\nickn\Source\Repos\nicknacknow\FundamentalsOfProgramming\FundamentalsOfProgramming\ConsoleGames\bin\Debug\netcoreapp3.1\ConsoleGames.exe
+C:\Users\nickn\Source\Repos\nicknacknow\FundamentalsOfProgramming\FundamentalsOfProgramming\ConsoleGames\bin\Debug\netcoreapp3.1\ConsoleGames.deps.json
+C:\Users\nickn\Source\Repos\nicknacknow\FundamentalsOfProgramming\FundamentalsOfProgramming\ConsoleGames\bin\Debug\netcoreapp3.1\ConsoleGames.runtimeconfig.json
+C:\Users\nickn\Source\Repos\nicknacknow\FundamentalsOfProgramming\FundamentalsOfProgramming\ConsoleGames\bin\Debug\netcoreapp3.1\ConsoleGames.runtimeconfig.dev.json
+C:\Users\nickn\Source\Repos\nicknacknow\FundamentalsOfProgramming\FundamentalsOfProgramming\ConsoleGames\bin\Debug\netcoreapp3.1\ConsoleGames.dll
+C:\Users\nickn\Source\Repos\nicknacknow\FundamentalsOfProgramming\FundamentalsOfProgramming\ConsoleGames\bin\Debug\netcoreapp3.1\ConsoleGames.pdb
+C:\Users\nickn\Source\Repos\nicknacknow\FundamentalsOfProgramming\FundamentalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.csproj.AssemblyReference.cache
+C:\Users\nickn\Source\Repos\nicknacknow\FundamentalsOfProgramming\FundamentalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickn\Source\Repos\nicknacknow\FundamentalsOfProgramming\FundamentalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.AssemblyInfoInputs.cache
+C:\Users\nickn\Source\Repos\nicknacknow\FundamentalsOfProgramming\FundamentalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.AssemblyInfo.cs
+C:\Users\nickn\Source\Repos\nicknacknow\FundamentalsOfProgramming\FundamentalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.csproj.CoreCompileInputs.cache
+C:\Users\nickn\Source\Repos\nicknacknow\FundamentalsOfProgramming\FundamentalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.dll
+C:\Users\nickn\Source\Repos\nicknacknow\FundamentalsOfProgramming\FundamentalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.pdb
+C:\Users\nickn\Source\Repos\nicknacknow\FundamentalsOfProgramming\FundamentalsOfProgramming\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.genruntimeconfig.cache
