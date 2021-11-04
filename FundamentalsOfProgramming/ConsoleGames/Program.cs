@@ -16,9 +16,11 @@ namespace ConsoleGames
             switch (dig)
             {
                 case 1:
-                    return '■';
+                    return '●';
                 case 2:
-                    return '❌'; //'⃝
+                    return '❌';
+                case 3:
+                    return '■'; // for selection
                 default:
                     return '□';
             }
@@ -175,7 +177,7 @@ namespace ConsoleGames
 
                 Console.Clear();
             }
-            Console.WriteLine($"winner!!!!! {(winner == 1 ? "nought" : "cross")}");
+            Console.WriteLine($"{(winner == 1 ? "nought" : "cross")} is the winner!!!!!");
         }
     }
 }
