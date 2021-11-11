@@ -17,6 +17,14 @@ namespace ConsoleGames
                 {0, 0, 0}
             };
 
+            for (int x = 0; x < 3; x++)
+            {
+                for (int y = 0; y < 3; y++)
+                {
+                    horizontalData[y, x] = map[y, x];
+                }
+            }
+
             return horizontalData;
         }
 
@@ -38,11 +46,12 @@ namespace ConsoleGames
                 {0, 0, 0}
             };
 
-            // diagonal 1
+            // diagonal 
 
             for (int x = 0; x < 3; x++)
             {
-                diagonalData[0,x] = map[x, x];
+                diagonalData[0, x] = map[x, x];
+                diagonalData[1, x] = map[2 - x, x];
             }
 
             return diagonalData;
